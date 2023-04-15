@@ -1,0 +1,30 @@
+What is a suppression list?
+A suppression list contains all the email addresses who have opted out/unsubscribed from your emails or have marked your emails as spam. You make this list to ensure that you do not send emails to such email addresses as doing so might damage your reputation. A suppression list helps maintain the sender’s reputation by ensuring that they send emails to those who want to receive them.
+
+Click here to read our definitive guide to Suppression List. 
+
+How to upload Suppression List?
+Step 1: Click on  ‘Contacts’ on the sidebar. Then, click on the three dots in the top-right corner.
+
+
+
+
+
+Step 2: From the drop-down list click on ‘Import Suppression List’
+
+
+
+Step 3: Upload the CSV file in the dialogue box that appears. Add first column for email id and second column for email type. If the email type field is left empty, then the contact will be unsubscribed from all email types. Uploaded emails will be added to the unsubscribe list for specified email type(s).
+
+
+
+Click ‘Next’.
+
+Step 4: The dialogue box will display the list of email addresses that you just uploaded.
+
+Click ‘Next’.
+
+
+
+The list of unsubscribed users will be uploaded to Mailmodo. 
+
