@@ -26,5 +26,5 @@ Click ‘Next’.
 
 
 
-The list of unsubscribed users will be uploaded to Mailmodo. 
+The list of unsubscribed users will be uploaded. 
 
